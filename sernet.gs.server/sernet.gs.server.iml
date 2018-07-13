@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/testSrc" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bouncycastle_1.45.0" level="project" />
+    <orderEntry type="library" name="lib11" level="project" />
+    <orderEntry type="library" name="runtime_registry_compatibility1" level="project" />
+    <orderEntry type="library" name="jbpm" level="project" />
+    <orderEntry type="library" name="lib6" level="project" />
+    <orderEntry type="library" name="jbpm2" level="project" />
+    <orderEntry type="library" name="junit6" level="project" />
+    <orderEntry type="library" name="javax.faces-2.1.71" level="project" />
+    <orderEntry type="library" name="lib8" level="project" />
+    <orderEntry type="library" name="opencsv-3.31" level="project" />
+    <orderEntry type="library" name="plugins3" level="project" />
+    <orderEntry type="library" name="hibernate3.2minimal1" level="project" />
+    <orderEntry type="library" name="threetenbp-1.3.31" level="project" />
+    <orderEntry type="library" name="junit7" level="project" />
+    <orderEntry type="library" name="junit" level="project" />
+    <orderEntry type="library" name="junit2" level="project" />
+    <orderEntry type="library" name="testlib" level="project" />
+    <orderEntry type="library" name="gnumail-1.1.2" level="project" />
+    <orderEntry type="library" name="lib13" level="project" />
+    <orderEntry type="library" name="jgrapht-jdk1.6-0.8.3" level="project" />
+    <orderEntry type="library" name="junit9" level="project" />
+    <orderEntry type="library" name="threetenbp-1.3.3" level="project" />
+    <orderEntry type="library" name="bouncycastle_1.45.01" level="project" />
+    <orderEntry type="library" name="junit4" level="project" />
+    <orderEntry type="library" name="gnumail" level="project" />
+    <orderEntry type="library" name="plugins2" level="project" />
+    <orderEntry type="library" name="jsf-api-1.2_123" level="project" />
+    <orderEntry type="library" name="jbpm1" level="project" />
+    <orderEntry type="library" name="plugins1" level="project" />
+    <orderEntry type="library" name="jsf-api-1.2_121" level="project" />
+    <orderEntry type="library" name="opencsv-3.3" level="project" />
+    <orderEntry type="library" name="bouncycastle1" level="project" />
+    <orderEntry type="library" name="bouncycastle3" level="project" />
+    <orderEntry type="library" name="junit8" level="project" />
+    <orderEntry type="library" name="bouncycastle" level="project" />
+    <orderEntry type="library" name="jsf-api-1.2_12" level="project" />
+    <orderEntry type="library" name="junit10" level="project" />
+    <orderEntry type="library" name="log4j-1.2.13" level="project" />
+    <orderEntry type="library" name="gnumail1" level="project" />
+    <orderEntry type="library" name="runtime_registry_compatibility2" level="project" />
+    <orderEntry type="library" name="runtime_registry_compatibility" level="project" />
+    <orderEntry type="library" name="gnumail2" level="project" />
+    <orderEntry type="library" name="plugins" level="project" />
+    <orderEntry type="library" name="junit3" level="project" />
+    <orderEntry type="library" name="junit1" level="project" />
+    <orderEntry type="library" name="hibernate3.2minimal" level="project" />
+    <orderEntry type="library" name="bouncycastle4" level="project" />
+    <orderEntry type="library" name="lib5" level="project" />
+    <orderEntry type="library" name="jgrapht-jdk1.6-0.8.31" level="project" />
+    <orderEntry type="library" name="jsf-api-1.2_122" level="project" />
+    <orderEntry type="library" name="javax.faces-2.1.7" level="project" />
+    <orderEntry type="library" name="junit5" level="project" />
+    <orderEntry type="library" name="jbpm3" level="project" />
+    <orderEntry type="library" name="plugins4" level="project" />
+    <orderEntry type="library" name="bouncycastle2" level="project" />
+    <orderEntry type="module" module-name="sernet.hui.common" />
+    <orderEntry type="module" module-name="sernet.gs.service" />
+  </component>
+</module>
